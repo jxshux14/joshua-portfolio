@@ -9,7 +9,7 @@ const projects = [
       "An e-commerce site for PC parts, from budget builds to extreme rigs. Built as a mini project during my internship at Highly Succeed Inc.",
     tags: ["Vue", "E-Commerce", "UI/UX"],
     live: "https://rigstore.vercel.app/",
-    github: "#",
+    github: "https://github.com/jxshux14/rigstore",
     image: "/projects/RigStore.png",
   },
   {
@@ -19,8 +19,8 @@ const projects = [
     description:
       "A full-stack alumni platform with directory, mentorship, networking, and document access features.",
     tags: ["MERN", "React", "Figma"],
-    live: "#",
-    github: "#",
+    live: "https://hsi-alumni-portal-gilt.vercel.app/directory",
+    github: "https://github.com/jxshux14/HSI-Alumni-Portal",
     image: "/projects/HSI-Alumni-Portal.png",
   },
 ];
